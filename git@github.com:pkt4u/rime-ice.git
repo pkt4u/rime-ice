@@ -1,0 +1,11 @@
+---
+name: custom_dict
+version: "1.0"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+vpp	vpp	1000
+dpdk	dpdk	1000
+msgpack	msgpack	1000
+cmake	cmake	1000
